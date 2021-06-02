@@ -1,4 +1,4 @@
-print(" *** WELCOME *** ")
+print(" *** WELCOME TO FACTORIAL CALCULATOR *** ")
 num=None
 def factorial(num):
     if num == 1:

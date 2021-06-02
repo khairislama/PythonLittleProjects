@@ -1,4 +1,4 @@
-print(" *** WELCOME *** ")
+print(" *** WELCOME TO FIND MAX AND MIN AMONG 3 NUMBERS *** ")
 num1=None
 num2=None
 num3=None

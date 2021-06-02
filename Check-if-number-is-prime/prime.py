@@ -1,4 +1,4 @@
-print(" *** WELCOME *** ")
+print(" *** WELCOME TO CHECK PRIME *** ")
 num=None
 
 while num==None:

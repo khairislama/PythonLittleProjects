@@ -1,5 +1,5 @@
 
-print(" *** WELCOME *** ")
+print(" *** WELCOME TO KM->MI OR MI->KM CONVERTOR *** ")
 method=0
 km=0
 mi=0
