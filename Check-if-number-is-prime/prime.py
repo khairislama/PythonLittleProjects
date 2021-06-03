@@ -3,7 +3,7 @@ num=None
 
 while num==None:
     try:
-        num = int(input("Enter you number to calculate factorial : "))
+        num = int(input("Enter you number to check if prime : "))
     except:
         print("Please enter a valid number! ")
 
