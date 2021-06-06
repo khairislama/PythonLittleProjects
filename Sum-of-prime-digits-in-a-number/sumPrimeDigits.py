@@ -1,4 +1,4 @@
-print(" *** WELCOME TO SUM DIGITS *** ")
+print(" *** WELCOME TO SUM PRIME DIGITS *** ")
 num=None
 result=0
 while num==None:
@@ -10,7 +10,12 @@ while num==None:
 hold=num
 while num>0:
     rem=num%10
-    result=result+rem
+    if rem>1:
+        for i in range(2, rem):
+            if (rem%i)==0:                
+                break
+        else:
+            result=result+rem    
     num=int(num/10)        
 
 print("Sum of all digits of",hold,"is:",result)    
