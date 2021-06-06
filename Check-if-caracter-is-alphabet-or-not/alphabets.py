@@ -1,3 +1,4 @@
+print(" *** WELCOME TO CHECK IF ALPHABET *** ")
 import getch
 print("Enter a caracter : ")
 ch = getch.getch()

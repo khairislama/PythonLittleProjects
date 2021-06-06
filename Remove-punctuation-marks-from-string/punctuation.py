@@ -1,3 +1,4 @@
+print(" *** WELCOME TO REMOVE PUNCTUATIONS *** ")
 punctuations = '!{()}[]-;:\,<>./?@#\'"$%^&*_~'
 string = input('Enter your string to remove punctuations : ')
 

@@ -1,3 +1,4 @@
+print(" *** WELCOME TO POWER OF A NUMBER *** ")
 terms=None
 
 while terms==None:
